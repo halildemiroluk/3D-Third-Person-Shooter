@@ -25,7 +25,6 @@ Oyunumuz Third Person Shooter , Unreal Engine 5 kullanılarak geliştirilmiştir
 # Karakter resimleri:
 ### Twinblast (Ana karakter)
 ![Ekran görüntüsü 2024-03-30 165401](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/7faaecef-779e-4f22-9db8-1d7728d4a611)
-![Ekran görüntüsü 2024-03-30 165337](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/833bb40f-d0ac-4d50-8f69-cef211fbf4da)
 ### Revenant (Boss)
 ![Ekran görüntüsü 2024-03-30 171413](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/dbb8a934-80ba-4604-bf35-0bcccaa67cd2)
 ### Murdock (Yarı Boss)
@@ -38,10 +37,19 @@ Oyunumuz Third Person Shooter , Unreal Engine 5 kullanılarak geliştirilmiştir
 ![Ekran görüntüsü 2024-03-30 171514](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/aa11f824-b9ed-43e3-9b59-afe18e6d4eac)
 ### Taretler
 ![Ekran görüntüsü 2024-03-30 171946](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/ad3e7d02-5b2f-40c7-b674-748391a8a6af)
-![Ekran görüntüsü 2024-03-30 172028](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/93b03977-80df-443e-92ed-7e256c4034ce)
-
-
 
 # Haritalar ve portal:
+### İlk Harita
+![Ekran görüntüsü 2024-03-30 165902](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/11b0967c-5b8c-4d1d-af8c-e40c3e8b9a37)
+
+### İkinci harita
+![Ekran görüntüsü 2024-03-30 170315](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/9334d89c-df8a-43b3-ab2a-69772d747f80)
+
+### Üçüncü Harita
+![Ekran görüntüsü 2024-03-30 170504](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/a4df2a89-5bfb-4d42-8c37-4c4e5f2ecff9)
+
+### Portal
+![Ekran görüntüsü 2024-03-30 170019](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/dcc4d211-70c9-4f63-9b9d-9831fcc3d84d)
+
 # Oynanış Videosu:
-[Oynanış videosu buraya eklenecek]
+[Oynanış videosu Yakında eklenecek]
