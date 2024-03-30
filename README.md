@@ -23,6 +23,24 @@ Oyunumuz Third Person Shooter , Unreal Engine 5 kullanılarak geliştirilmiştir
 ![Hızlı Koşma](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/f344e0d9-2018-4498-9e0f-a2f7c3fdf8fc)
 
 # Karakter resimleri:
+### Twinblast (Ana karakter)
+![Ekran görüntüsü 2024-03-30 165401](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/7faaecef-779e-4f22-9db8-1d7728d4a611)
+![Ekran görüntüsü 2024-03-30 165337](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/833bb40f-d0ac-4d50-8f69-cef211fbf4da)
+### Revenant (Boss)
+![Ekran görüntüsü 2024-03-30 171413](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/dbb8a934-80ba-4604-bf35-0bcccaa67cd2)
+### Murdock (Yarı Boss)
+![Ekran görüntüsü 2024-03-30 171503](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/a1f2cc16-4091-4924-a4e7-d688ac71424d)
+### Wraith 
+![Ekran görüntüsü 2024-03-30 171430](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/e08a16f2-af64-42ee-a33b-bacafccb9a2b)
+### Drongo
+![Ekran görüntüsü 2024-03-30 171452](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/0d106f36-586c-4b06-bcf0-50d36be3a286)
+### Zinx
+![Ekran görüntüsü 2024-03-30 171514](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/aa11f824-b9ed-43e3-9b59-afe18e6d4eac)
+### Taretler
+![Ekran görüntüsü 2024-03-30 171946](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/ad3e7d02-5b2f-40c7-b674-748391a8a6af)
+![Ekran görüntüsü 2024-03-30 172028](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/93b03977-80df-443e-92ed-7e256c4034ce)
+
+
 
 # Haritalar ve portal:
 # Oynanış Videosu:
