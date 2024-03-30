@@ -52,5 +52,4 @@ Oyunumuz Third Person Shooter , Unreal Engine 5 kullanılarak geliştirilmiştir
 ![Ekran görüntüsü 2024-03-30 170019](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/dcc4d211-70c9-4f63-9b9d-9831fcc3d84d)
 
 # Oynanış Videosu:
-https://drive.google.com/file/d/1XJv44oHg0TLXQT1Whfql9tVu6QqAG5_O/view?usp=drive_link
 
