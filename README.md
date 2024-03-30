@@ -6,7 +6,7 @@
 # Oynanış:
 Oyunumuz Third Person Shooter , Unreal Engine 5 kullanılarak geliştirilmiştir. Oyuncular, Twinblast karakterini kontrol eder ve düşman yapay zekaya karşı savaşırlar. Oyunda, Twinblast'ın kontrol ettiği bir ana karakter, 2 taret ve 5 farklı düşman bulunmaktadır.
 
-# Kontroller:
+## Kontroller:
 # W, A, S, D: Hareket etmek
 ![WASD](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/7e157f71-5910-4b5a-afea-05a97c7d6b5b)
 
@@ -22,7 +22,8 @@ Oyunumuz Third Person Shooter , Unreal Engine 5 kullanılarak geliştirilmiştir
 # Shift: Hızlı koşma
 ![Hızlı Koşma](https://github.com/halildemiroluk/3D-Third-Person-Shooter/assets/104024673/f344e0d9-2018-4498-9e0f-a2f7c3fdf8fc)
 
-# Karakter resimleri:
+## Karakter resimleri:
+
 # Haritalar ve portal:
 # Oynanış Videosu:
 [Oynanış videosu buraya eklenecek]
